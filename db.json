@@ -1,4 +1,6 @@
 	{
+		"helden":[
+			{
 		"id": 1,
 		"vorname": "Peter",
 		"nachname": "Parker",
@@ -8,4 +10,16 @@
 		],
 		"alter": 33,
 		"raucher": false
+			},
+			"id": 2,
+		"vorname": "Osman",
+		"nachname": "Demir",
+		"stadt": [
+			"Ankara",
+			"Istanbul"
+		],
+		"alter": 45,
+		"raucher": true
+			}
+			]
 	}
