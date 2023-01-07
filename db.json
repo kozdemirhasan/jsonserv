@@ -25,5 +25,22 @@
 				"alter": 40,
 				"raucher": false
 			}
+		],
+		"posts":
+		[
+		{
+			"id" : 1,
+			"titel": "Merhaba dünya!",		
+		},
+		{
+			"id" : 2,
+			"titel": "Hallo Welt!",		
+		},
+		{
+			"id" : 3,
+			"titel": "Hello World!",		
+		},
+		
 		]
+		
 	}
