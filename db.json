@@ -25,8 +25,8 @@
             "raucher": false
         }],
     "posts": [
-        {"id": 1, "titel": "Dies und das"},
-        {"id": 2, "titel": "Bla bla bla"},
-        {"id": 3, "titel": "Irgendwas"}
+        {"id": 1, "titel": "Merhaba dünya!"},
+        {"id": 2, "titel": "Hallo Welt!"},
+        {"id": 3, "titel": "Hello world!"}
     ]    
 }
