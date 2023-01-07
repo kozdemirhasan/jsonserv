@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"vorname": "Peter",
 		"nachname": "Parker",
 		"stadt": [
@@ -10,6 +11,8 @@
 		"raucher": false
 	},
 	{
+		
+		"id": 2,
 		"vorname": "Hans",
 		"nachname": "Baner",
 		"stadt": [
@@ -19,6 +22,8 @@
 		"raucher": true
 	},
 	{
+		
+		"id": 3,
 		"vorname": "Steve",
 		"nachname": "Parker",
 		"stadt": [
