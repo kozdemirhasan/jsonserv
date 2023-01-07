@@ -21,6 +21,17 @@
 		],
 		"alter": 45,
 		"raucher": true
+			},
+			{
+				"id": 3,
+		"vorname": "Hasan",
+		"nachname": "Kaya",
+		"stadt": [
+			"sinop",
+			"Istanbul"
+		],
+		"alter": 40,
+		"raucher": false
 			}
 			]
 	}
