@@ -1,4 +1,3 @@
-[
 	{
 		"id": 1,
 		"vorname": "Peter",
@@ -9,27 +8,4 @@
 		],
 		"alter": 33,
 		"raucher": false
-	},
-	{
-		
-		"id": 2,
-		"vorname": "Hans",
-		"nachname": "Baner",
-		"stadt": [
-			"Kiel"
-		],
-		"alter": 52,
-		"raucher": true
-	},
-	{
-		
-		"id": 3,
-		"vorname": "Steve",
-		"nachname": "Parker",
-		"stadt": [
-			"Berlin"
-		],
-		"alter": 31,
-		"raucher": false
 	}
-]
