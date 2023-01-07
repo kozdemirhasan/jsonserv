@@ -1,45 +1,32 @@
-	{
-		"helden":
-		[
-			{
-				"id": 1,
-				"vorname": "Peter",
-				"nachname": "Parker",
-				"stadt": ["Berlin","Kiel"],
-				"alter": 33,
-				"raucher": false
-			},
-			{
-				"id": 2,
-				"vorname": "Osman",
-				"nachname": "Demir",
-				"stadt": ["Ankara","Istanbul"],
-				"alter": 45,
-				"raucher": true
-			},
-			{
-				"id": 3,
-				"vorname": "Hasan",
-				"nachname": "Kaya",
-				"stadt": ["sinop","Istanbul"],
-				"alter": 40,
-				"raucher": false
-			}
-		],
-		"posts":
-		[
-		{
-			"id" : 1,
-			"titel": "Merhaba dünya!",		
-		},
-		{
-			"id" : 2,
-			"titel": "Hallo Welt!",		
-		},
-		{
-			"id" : 3,
-			"titel": "Hello World!",		
-		}
-		
-		]
-	}
+{
+    "helden": [
+        {	
+            "id": 1,
+            "vorname": "Peter",
+            "nachname": "Parker",
+            "stadt": ["Hamburg", "New York", "Heide"],
+            "alter": 25,
+            "raucher": false
+        },
+        {	
+            "id": 2,
+            "vorname": "Carol",
+            "nachname": "Danvers",
+            "stadt": ["Boston", "New York"],
+            "alter": 30,
+            "raucher": true
+        },
+        {	
+            "id": 3,
+            "vorname": "Steve",
+            "nachname": "Rogers",
+            "stadt": ["Heide"],
+            "alter": 102,
+            "raucher": false
+        }],
+    "posts": [
+        {"id": 1, "titel": "Dies und das"},
+        {"id": 2, "titel": "Bla bla bla"},
+        {"id": 3, "titel": "Irgendwas"}
+    ]    
+}
