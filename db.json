@@ -1,37 +1,29 @@
 	{
-		"helden":[
+		"helden":
+		[
 			{
-		"id": 1,
-		"vorname": "Peter",
-		"nachname": "Parker",
-		"stadt": [
-			"Berlin",
-			"Kiel"
-		],
-		"alter": 33,
-		"raucher": false
+				"id": 1,
+				"vorname": "Peter",
+				"nachname": "Parker",
+				"stadt": ["Berlin","Kiel"],
+				"alter": 33,
+				"raucher": false
 			},
 			{
 				"id": 2,
-		"vorname": "Osman",
-		"nachname": "Demir",
-		"stadt": [
-			"Ankara",
-			"Istanbul"
-		],
-		"alter": 45,
-		"raucher": true
+				"vorname": "Osman",
+				"nachname": "Demir",
+				"stadt": ["Ankara","Istanbul"],
+				"alter": 45,
+				"raucher": true
 			},
 			{
 				"id": 3,
-		"vorname": "Hasan",
-		"nachname": "Kaya",
-		"stadt": [
-			"sinop",
-			"Istanbul"
-		],
-		"alter": 40,
-		"raucher": false
+				"vorname": "Hasan",
+				"nachname": "Kaya",
+				"stadt": ["sinop","Istanbul"],
+				"alter": 40,
+				"raucher": false
 			}
-			]
+		]
 	}
